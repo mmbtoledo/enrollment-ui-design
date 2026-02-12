@@ -131,9 +131,9 @@ function App() {
       : [];
 
   return (
-    <div className="container">
-      <h1>ADEi University Digital Registrar</h1>
-
+    <div className="header">
+      <h1>ADEi University</h1>
+  <p>Digital Enrollment System</p>
       <form>
 
         {/* PERSONAL INFORMATION */}
