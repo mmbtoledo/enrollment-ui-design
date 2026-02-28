@@ -226,7 +226,6 @@ function App() {
           </div>
         </fieldset>
 
-        {/* Enrollment Choices */}
         <fieldset>
           <legend>Enrollment Choices</legend>
 
